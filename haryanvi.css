@@ -1,0 +1,310 @@
+* {
+    margin: 0px;
+    animation: anim1 10s infinite;
+}
+
+.fhead {
+    text-align: center;
+
+}
+
+.prehead {
+    font-size: 30px;
+}
+
+.head {
+    font-size: 50px;
+}
+
+.navbar {
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.navbar ul li a {
+    color: black;
+    font-size: x-large;
+    text-decoration: none;
+    margin-bottom: 70px;
+
+}
+
+.navbar ul {
+    color: black;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+
+
+
+}
+
+.navbar2 {
+    margin-top: 50px;
+
+}
+
+.navbar2 ul li a {
+    color: black;
+    font-size: x-large;
+    text-decoration: none;
+    margin-bottom: 70px;
+
+}
+
+.navbar2 ul {
+    color: black;
+    list-style: none;
+}
+
+.haryanvititle {
+    text-align: center;
+}
+
+.haryanvisong1full {
+    text-align: center;
+
+
+}
+
+
+.haryanvisong2full {
+    text-align: center;
+    border: 5px solid transparent;
+
+
+}
+
+.haryanvisong3full {
+    text-align: center;
+    border: 5px solid transparent;
+
+
+}
+
+
+
+.haryanvisong4full {
+    text-align: center;
+    border: 5px solid transparent;
+
+
+}
+
+.haryanvisong5full {
+    text-align: center;
+    border: 5px solid transparent;
+
+
+}
+
+.haryanvi {
+    background: pink;
+
+}
+
+
+
+@keyframes anim1 {
+    0% {
+        background-color: white;
+    }
+
+    5% {
+        background-color: rgb(255, 75, 75);
+    }
+
+    10% {
+        background-color: rgb(241, 137, 137);
+    }
+
+    15% {
+        background-color: rgb(252, 106, 39);
+    }
+
+    20% {
+        background-color: rgb(255, 133, 34);
+    }
+
+    25% {
+        background-color: rgb(253, 255, 163);
+    }
+
+    30% {
+        background-color: rgb(53, 226, 0);
+    }
+
+    35% {
+        background-color: rgb(75, 255, 201);
+    }
+
+    40% {
+        background-color: rgb(9, 247, 247);
+    }
+
+    45% {
+        background-color: rgb(75, 147, 255);
+    }
+
+    50% {
+        background-color: rgb(86, 69, 243);
+    }
+
+    55% {
+        background-color: rgb(174, 75, 255);
+    }
+
+    60% {
+        background-color: rgb(255, 75, 216);
+    }
+
+    70% {
+        background-color: rgb(255, 75, 135);
+    }
+
+    80% {
+        background-color: rgb(255, 75, 75);
+    }
+
+    100% {
+        background-color: rgb(162, 0, 255);
+    }
+}
+
+@keyframes anim2 {
+    0% {
+        background-color: white;
+    }
+
+    5% {
+
+        background-color: rgb(162, 0, 255);
+    }
+
+    10% {
+        background-color: rgb(255, 75, 75);
+    }
+
+    15% {
+        background-color: rgb(255, 75, 135);
+    }
+
+    20% {
+        background-color: rgb(255, 75, 216);
+    }
+
+    25% {
+        background-color: rgb(174, 75, 255);
+    }
+
+    30% {
+        background-color: rgb(86, 69, 243);
+    }
+
+    35% {
+        background-color: rgb(75, 255, 201);
+    }
+
+    40% {
+        background-color: rgb(9, 247, 247);
+    }
+
+    45% {
+        background-color: rgb(75, 147, 255);
+    }
+
+    50% {
+        background-color: rgb(53, 226, 0);
+    }
+
+    55% {
+        background-color: rgb(253, 255, 163);
+    }
+
+    60% {
+        background-color: rgb(255, 133, 34);
+    }
+
+    70% {
+        background-color: rgb(252, 106, 39);
+    }
+
+    80% {
+        background-color: rgb(255, 25, 25)
+    }
+
+    100% {
+        background-color: rgb(255, 75, 75);
+    }
+}
+
+
+@keyframes anim3 {
+    0% {
+        background-color: white;
+    }
+
+    5% {
+
+        background-color: rgb(162, 0, 255);
+    }
+
+    10% {
+        background-color: rgb(255, 0, 0);
+    }
+
+    15% {
+        background-color: rgb(75, 93, 255);
+    }
+
+    20% {
+        background-color: rgb(255, 5, 201);
+    }
+
+    25% {
+        background-color: rgb(9, 255, 0);
+    }
+
+    30% {
+        background-color: rgb(83, 71, 192);
+    }
+
+    35% {
+        background-color: rgb(75, 255, 201);
+    }
+
+    40% {
+        background-color: rgb(6, 64, 255);
+    }
+
+    45% {
+        background-color: rgb(0, 102, 255);
+    }
+
+    50% {
+        background-color: rgb(0, 226, 169);
+    }
+
+    55% {
+        background-color: rgb(251, 255, 5);
+    }
+
+    60% {
+        background-color: rgb(255, 148, 60);
+    }
+
+    70% {
+        background-color: rgba(252, 39, 216, 0.822);
+    }
+
+    80% {
+        background-color: rgb(255, 0, 0)
+    }
+
+    100% {
+        background-color: rgb(75, 255, 201);
+    }
+}

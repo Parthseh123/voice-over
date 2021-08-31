@@ -1,0 +1,470 @@
+*{
+    margin: 0px;
+}
+.fhead{
+    text-align: center;
+    
+}
+.prehead{
+    font-size: 30px;
+}
+.head{
+    font-size: 50px;
+}
+
+.navbar{
+    margin-top:50px;
+    float: left;
+}
+.navbar ul li a{
+    color:black;
+    font-size: x-large;
+    text-decoration: none;
+    margin-bottom: 70px;
+    
+}
+
+.navbar ul {
+    color:black;
+    list-style: none;
+}
+
+.navbar2{
+    margin-top:50px;
+    float: left;
+}
+.navbar2 ul li a{
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+    margin-bottom: 70px;
+    
+}
+
+.navbar2 ul {
+    color:black;
+    list-style: none;
+}
+.hindititle{
+    text-align: center;
+}
+.hsong1full{
+  text-align: center;
+  border: 5px solid transparent;
+  border-color: black;
+   
+  }
+  .hindivo1{
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: nowrap;
+  }
+
+  .hsong2full{
+    text-align: center;
+    border: 5px solid transparent;
+    border-color: black;
+     
+    }
+
+    .hsong3full{
+        text-align: center;
+        border: 5px solid transparent;
+        border-color: black;
+         
+        }
+
+        .hindivo2{
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: nowrap;
+        }
+
+        .hsong4full{
+            text-align: center;
+            border: 5px solid transparent;
+            border-color: black;
+             
+            }
+            .hsong5full{
+                text-align: center;
+                border: 5px solid transparent;
+                border-color: black;
+                 
+                }
+
+     .hindi{
+        background: pink;
+        animation: anim1 10s infinite;
+            }
+
+            .engtitle{
+                text-align: center;
+            }
+            .engsong1full{
+              text-align: center;
+              border: 5px solid transparent;
+              border-color: black;
+               
+              }
+              .engvo1{
+                  display: flex;
+                  justify-content: space-around;
+                  flex-wrap: nowrap;
+              }
+            
+              .engsong2full{
+                text-align: center;
+                border: 5px solid transparent;
+                border-color: black;
+                 
+                }
+            
+                .engsong3full{
+                    text-align: center;
+                    border: 5px solid transparent;
+                    border-color: black;
+                     
+                    }
+            
+                    .engvo2{
+                        display: flex;
+                        justify-content: space-around;
+                        flex-wrap: nowrap;
+                    }
+            
+                    .engsong4full{
+                        text-align: center;
+                        border: 5px solid transparent;
+                        border-color: black;
+                         
+                        }
+
+                        .engsong5full{
+                            text-align: center;
+                            border: 5px solid transparent;
+                            border-color: black;
+                             
+                            }
+            
+                 .english{
+                    background: rgb(231, 89, 113);
+                    animation: anim2 10s infinite;
+                        }
+
+                        .punjabititle{
+                            margin-left: 680px;
+                        }
+                        .punjabisong1full{
+                            margin-left: -200px;
+                          border: 5px solid transparent;
+                          border-color: black;
+                           
+                          }
+                          .punjabivo1{
+                              display: flex;
+                              justify-content: space-around;
+                              flex-wrap: nowrap;
+                          }
+                        
+                          .punjabisong2full{
+                            text-align: center;
+                            border: 5px solid transparent;
+                            border-color: black;
+                             
+                            }
+                        
+                            .punjabisong3full{
+                                text-align: center;
+                                border: 5px solid transparent;
+                                border-color: black;
+                                 
+                                }
+                        
+                                .punjabivo2{
+                                    display: flex;
+                                    justify-content: space-around;
+                                    flex-wrap: nowrap;
+                                }
+                        
+                                .punjabisong4full{
+                                    text-align: center;
+                                    border: 5px solid transparent;
+                                    border-color: black;
+                                     
+                                    }
+
+                                    .punjabisong5full{
+                                        text-align: center;
+                                        border: 5px solid transparent;
+                                        border-color: black;
+                                         
+                                        }
+                        
+                             .punjabi{
+                                background: rgb(231, 89, 113);
+                                animation: anim3 10s infinite;
+                                    }
+
+                                    .haryanvititle{
+                                        text-align: center;
+                                    }
+                                    .haryanvisong1full{
+                                      text-align: center;
+                                      border: 5px solid transparent;
+                                      border-color: black;
+                                       
+                                      }
+                                      .haryanvivo1{
+                                          display: flex;
+                                          justify-content: space-around;
+                                          flex-wrap: nowrap;
+                                      }
+                                    
+                                      .haryanvisong2full{
+                                        text-align: center;
+                                        border: 5px solid transparent;
+                                        border-color: black;
+                                         
+                                        }
+                                    
+                                        .haryanvisong3full{
+                                            text-align: center;
+                                            border: 5px solid transparent;
+                                            border-color: black;
+                                             
+                                            }
+                                    
+                                            .haryanvivo2{
+                                                display: flex;
+                                                justify-content: space-around;
+                                                flex-wrap: nowrap;
+                                            }
+                                    
+                                            .haryanvisong4full{
+                                                text-align: center;
+                                                border: 5px solid transparent;
+                                                border-color: black;
+                                                 
+                                                }
+
+                                                .haryanvisong5full{
+                                                    text-align: center;
+                                                    border: 5px solid transparent;
+                                                    border-color: black;
+                                                     
+                                                    }
+
+                                         .haryanvi{
+                                            background: rgb(231, 89, 113);
+                                            animation: anim3 10s infinite;
+                                                }
+
+                                                .urdutitle{
+                                                    text-align: center;
+                                                }
+                                                .urdusong1full{
+                                                  text-align: center;
+                                                  border: 5px solid transparent;
+                                                  border-color: black;
+                                                   
+                                                  }
+                                                  .urduvo1{
+                                                      display: flex;
+                                                      justify-content: space-around;
+                                                      flex-wrap: nowrap;
+                                                  }
+                                                
+                                                  .urdusong2full{
+                                                    text-align: center;
+                                                    border: 5px solid transparent;
+                                                    border-color: black;
+                                                     
+                                                    }
+                                                
+                                                    .urdusong3full{
+                                                        text-align: center;
+                                                        border: 5px solid transparent;
+                                                        border-color: black;
+                                                         
+                                                        }
+                                                
+                                                        .urduvo2{
+                                                            display: flex;
+                                                            justify-content: space-around;
+                                                            flex-wrap: nowrap;
+                                                        }
+                                                
+                                                        .urdusong4full{
+                                                            text-align: center;
+                                                            border: 5px solid transparent;
+                                                            border-color: black;
+                                                             
+                                                            }
+                                    
+                                                            .urdusong5full{
+                                                                text-align: center;
+                                                                border: 5px solid transparent;
+                                                                border-color: black;
+                                                                 
+                                                                }
+                                                
+                                                     .urdu{
+                                                        background: rgb(231, 89, 113);
+                                                        animation: anim2 10s infinite;
+                                                            }
+
+                        @keyframes anim1 {
+                            0%{
+                                background-color:white;
+                            }
+                            5%{
+                                background-color:rgb(255, 75, 75);
+                            }
+                            10%{
+                                background-color:rgb(241, 137, 137);
+                            }
+                            15%{
+                                background-color:rgb(252, 106, 39);
+                            }
+                            20%{
+                                background-color:rgb(255, 133, 34);
+                            }
+                            25%{
+                                background-color:rgb(253, 255, 163);
+                            }
+                            30%{
+                                background-color:rgb(53, 226, 0);
+                            }
+                            35%{
+                                background-color:rgb(75, 255, 201);
+                            }
+                            40%{
+                               background-color:rgb(9, 247, 247);
+                            }
+                            45%{
+                               background-color:rgb(75, 147, 255);
+                            }
+                            50%{
+                                background-color:rgb(86, 69, 243);
+                            }
+                            55%{
+                                background-color:rgb(174, 75, 255);
+                            }
+                            60%{
+                                background-color:rgb(255, 75, 216);
+                            }
+                            70%{
+                                background-color:rgb(255, 75, 135);
+                            }
+                            80%{
+                                background-color:rgb(255, 75, 75);
+                            }
+                            100%{
+                                background-color: rgb(162, 0, 255);
+                            }
+                        }
+                        @keyframes anim2 {
+                            0%{
+                                background-color:white;
+                            }
+                            5%{
+                                
+                                background-color: rgb(162, 0, 255);
+                            }
+                            10%{
+                                background-color:rgb(255, 75, 75);
+                            }
+                            15%{
+                                background-color:rgb(255, 75, 135);
+                            }
+                            20%{
+                                background-color:rgb(255, 75, 216);
+                            }
+                            25%{
+                                background-color:rgb(174, 75, 255);
+                            }
+                            30%{
+                                background-color:rgb(86, 69, 243);
+                            }
+                            35%{
+                                background-color:rgb(75, 255, 201);
+                            }
+                            40%{
+                               background-color:rgb(9, 247, 247);
+                            }
+                            45%{
+                               background-color:rgb(75, 147, 255);
+                            }
+                            50%{
+                                background-color:rgb(53, 226, 0);
+                            }
+                            55%{
+                                background-color:rgb(253, 255, 163);
+                            }
+                            60%{
+                                background-color:rgb(255, 133, 34);
+                            }
+                            70%{
+                                background-color:rgb(252, 106, 39);
+                            }
+                            80%{
+                                background-color:rgb(255, 25, 25)
+                            }
+                            100%{
+                                background-color:rgb(255, 75, 75);
+                            }
+                        }
+
+
+                        @keyframes anim3 {
+                            0%{
+                                background-color:white;
+                            }
+                            5%{
+                                
+                                background-color: rgb(162, 0, 255);
+                            }
+                            10%{
+                                background-color:rgb(255, 0, 0);
+                            }
+                            15%{
+                                background-color:rgb(75, 93, 255);
+                            }
+                            20%{
+                                background-color:rgb(255, 5, 201);
+                            }
+                            25%{
+                                background-color:rgb(9, 255, 0);
+                            }
+                            30%{
+                                background-color:rgb(83, 71, 192);
+                            }
+                            35%{
+                                background-color:rgb(75, 255, 201);
+                            }
+                            40%{
+                               background-color:rgb(6, 64, 255);
+                            }
+                            45%{
+                               background-color:rgb(0, 102, 255);
+                            }
+                            50%{
+                                background-color:rgb(0, 226, 169);
+                            }
+                            55%{
+                                background-color:rgb(251, 255, 5);
+                            }
+                            60%{
+                                background-color:rgb(255, 148, 60);
+                            }
+                            70%{
+                                background-color:rgba(252, 39, 216, 0.822);
+                            }
+                            80%{
+                                background-color:rgb(255, 0, 0)
+                            }
+                            100%{
+                                background-color:rgb(75, 255, 201);
+                            }
+                        }
